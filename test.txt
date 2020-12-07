@@ -2,4 +2,3 @@ Initial Commit
 
 Fasty Commit 1
 Fasty Commit 2
-Fasty commit 3
